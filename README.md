@@ -22,8 +22,6 @@ crew_ai_ml_mena/
 ├── requirements.txt
 └── README.md
 
-نسخ
-تحرير
 
 ##  Usage
 
