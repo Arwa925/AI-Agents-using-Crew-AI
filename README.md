@@ -22,7 +22,6 @@ crew_ai_ml_mena/
 ├── requirements.txt
 └── README.md
 
-markdown
 نسخ
 تحرير
 
@@ -34,11 +33,9 @@ markdown
 pip install -r requirements.txt
 Run the system:
 
-
-نسخ
-تحرير
 python main.py
 The report will be generated as ai_ml_jobs_mena_may2025.md.
+
 
  Sample Output
 Top Roles
