@@ -1,4 +1,4 @@
-class DataExtractionAgent:
+ class DataExtractionAgent:
     def run(self, raw_data):
         print("[DataExtractionAgent] Extracting relevant job fields...")
         extracted = []
